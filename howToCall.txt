@@ -1,0 +1,6 @@
+
+- Calculate the error using blocked centroid:
+	[myError, accuracy] = calcError(@train, 'trainData', 'fvsOfCharacters', @hossamGetFeatureVector, 'testData')
+
+- Calculate the error using directions classifier (the one that had tracks, sectors, .. etc):
+	[myError, accuracy] = calcError(@train, 'trainData', 'fvsOfCharacters', @ass3getFeatureVector, 'testData')
