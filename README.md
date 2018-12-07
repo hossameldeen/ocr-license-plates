@@ -1,3 +1,5 @@
+**This repository has been archived. For any communication regarding it, including the possibility of unarchiving or making updates to it, feel free to open an issue on [archived-repos](https://github.com/hossameldeen/archived-repos).**
+
 # OCR for License Plates
 A program written in *Octave* for extracting the characters in photos of license plates.
 
